@@ -11,6 +11,7 @@
 		Portuguese:"Palácio"
 		German:"Palast"
 		Polish:"Pałac"
+		Dutch:"Paleis"
 }
 
 	"Indicates the capital city":{
@@ -34,6 +35,7 @@
 		Portuguese:"Monumento"
 		German:"Monument"
 		Polish:"Pomnik"
+		Dutch:"Monument
 	}
 
 	"Granary":{	
@@ -58,6 +60,7 @@
 		Portuguese:"Obras de pedras"
 		German:"Mauerwerk"
 		Polish:"Kamieniarz"
+		Dutch:"Steenwerk"
 	}
 	
 	"Must not be on plains":{
@@ -77,17 +80,20 @@
 		Simplified_Chinese:"巨石阵"
 		Portuguese:"Stonehenge"
 		Polish:"Stonehenge"
+		Dutch:"Stonehenge"
 	}
 
 	"'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle":{
 		Italian:"'Il tempo sgretola le cose; davanti al suo potere tutto invecchia e viene dimenticato.' - Aristotele"
 		Simplified_Chinese:"“时间能粉碎一切；所有事物终将在时流中衰老并被遗忘。”——亚里士多德"
+		Dutch:"''Alles vergaat na lange tijd; alles word oud en word vergeten door de kracht van tijd' -Aristotle"
 	}
 
 	/*
 	
 	"Temple of Artemis":{
 		Italian:"Tempio di Artemide"
+		Dutch:"Tempel van Artemis"
 	}
 	
 	"'It is not so much for its beauty that the forest makes a claim upon men's hearts, as for that subtle something, that quality of air, that emanation from old trees, that so wonderfully changes and renews a weary spirit.' - Robert Louis Stevenson":{
@@ -96,10 +102,12 @@
 	
 	"+10% Growth in all Cities":{
 		Italian:"+10% Crescita in tutte le Città"
+		Dutch:"+10% Groei in alle steden"
 	}
 	
 	"+15% Production towards Ranged Units":{
 		Italian:"+15% Produzione per le unità a distanza"
+		Dutch:"+15% Productie naar eenheden met afstandswapens"
 	}
 
 	*/
@@ -114,6 +122,7 @@
 		Portuguese:"Livraria"
 		German:"Bibliothek"
 		Polish:"Biblioteka"
+		Dutch:"Bibliotheek"
 	}
 
 	"+1 Science Per 2 Population":{
@@ -127,6 +136,7 @@
 		Simplified_Chinese:"每2人口+1科研"
 		Portuguese:"+1 Ciência a cada 2 habitantes"
 		Polish:"+1 do nauki na 2 obywateli"
+		Dutch:"+1 Wetenschap per 2 Inwoners"
 	}
 
 	"Paper Maker":{
@@ -138,6 +148,7 @@
 		French:"Fabricant de papier"
 		Polish:"Wytwórca papieru"
 		Russian:"Бумажная мануфактура"
+		Dutch:"Papiermaker"
 	}
 	
 	"The Great Library":{	
@@ -150,11 +161,13 @@
 		Portuguese:"A Grande Biblioteca"
 		German:"Die Große Bibliothek"
 		Polish:"Wielka Biblioteka"
+		Dutch:"De Grote Bibliotheek"
 	}
 	
 	"Free Technology":{
 		Italian:"Dona una tecnologia gratuita"
 		Simplified_Chinese:"获得1项免费科技"
+		Dutch:"Gratis Technologie"
 	}
 
 	"'Libraries are as the shrine where all the relics of the ancient saints, full of true virtue, and all that without delusion or imposture are preserved and reposed.' - Sir Francis Bacon":{
@@ -172,6 +185,7 @@
 		Portuguese:"Circo"
 		German:"Zirkus"
 		Polish:"Cyrk"
+		Dutch:"Circus"
 	}
 
 	"Walls":{	
@@ -184,6 +198,7 @@
 		Portuguese:"Muralhas"
 		German:"Mauern"
 		Polish:"Mury"
+		Dutch:"Muren"
 	}
 
 	"Walls of Babylon":{
@@ -192,6 +207,7 @@
         	French:"Murs de Babylone"
 		Polish:"Mury Babilonu"
 		Russian:"Стены Вавилона"
+		Dutch:"Muren van Babylon"
 	}
 	
 	"The Pyramids":{	
@@ -204,6 +220,7 @@
 		Portuguese:"Pirâmides"
 		German:"Die Pyramiden"
 		Polish:"Piramidy"
+		Dutch:"De Piramides"
 	}
 
 	"'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.'  - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge":{
@@ -247,6 +264,7 @@
 		Portuguese:"Quartéis"
 		German:"Baracken"
 		Polish:"Koszary"
+		Dutch:"Barakken"
 	}
 	
 	"Krepost":{ // russian uique, transliterate this probably, this is a russian word
@@ -269,6 +287,7 @@
 		French:"Cout d'acquisition en or et en culture de nouvelle cases réduit de 25% dans cette ville"
 		Polish:"Koszt uzyskania nowego pola (w kulturze lub złocie) zmniejszony o 25% w tym mieście" 
 		Russian:"-25% к необходимому количеству Культура и Золото для получения клеток вокруг данного города"
+		Dutch:"-25% Kosten van Cultuur en Goud benodigd voor het krijgen van nieuwe tegels in deze stad"
 	}
 	
 	"Colossus":{
@@ -290,6 +309,7 @@
 		French:"+1 or pour les cases maritimes exploitées par la ville"
 		Polish:"+1 do złota z obsadzonych pól wodnych w tym mieście"
 		Russian:"+1 Золото от обрабатываемых водных клеток вокруг города"
+		Dutch:"+1 goud van bewerkte water tegels in de stad"
 	}
 	
 	"Temple":{	
@@ -302,6 +322,7 @@
 		Portuguese:"Templo"
 		German:"Tempel"
 		Polish:"Świątynia"
+		Dutch:"Tempel"
 	}
 
 	"Burial Tomb":{
@@ -313,6 +334,7 @@
 		French:"Tombeau"
 		Polish:"Grobowiec"
 		Russian:"Гробница"
+		Dutch:"Graftombe"
 	}
 
 	/*
@@ -320,6 +342,7 @@
 		Italian:"Moschea della Piramide di Fango"
 		French:"Mosquée d'adobe" //official translation
 		Polish:"Wielki Meczet w Dżennie" //from civipedia
+		Dutch:"Modder Pyraminde Moskee"
 	}
 	*/
 
@@ -333,6 +356,7 @@
 		Portuguese:"O Oráculo"
 		German:"Das Orakel"
 		Polish:"Wyrocznia"
+		Dutch:"Het Orakel"
 	}
 
 	"'The ancient Oracle said that I was the wisest of all the Greeks. It is because I alone, of all the Greeks, know that I know nothing'  - Socrates":{
@@ -363,6 +387,7 @@
 		Portuguese:"Universidade Nacional"
 		German:"Nationale Hochschule"
 		Polish:"Akademia Narodowa"
+		Dutch:"Nationale Hogenschool"
 	}
 	
 	"Chichen Itza":{	
@@ -405,6 +430,7 @@
 		German:"Leuchtturm"
 		Polish:"Latarnia morska"
 		Russian:"Маяк"
+		Dutch:"Vuurtoren"
 	}
 
 	"Can only be built in coastal cities":{
@@ -415,7 +441,8 @@
 		Portuguese:"Só pode ser construido em cidades costeiras"
 		German:"Kann nur in Küstenstädten gebaut werden"
 		Polish:"Może być zbudowane tylko w miastach nadbrzeżnych"
-		Russian:"Может быть построен только в прибрежных городах"
+		Russian:"Может быть построен только в прибрежных городах" 
+		Dutch:"Kan alleen gebouwd worden in steden aan de kust"
 	}
 
 	"+1 food from Ocean and Coast tiles":{
@@ -426,6 +453,7 @@
 		Simplified_Chinese:"每个海滨地块和海洋地块+1食物"
 		Polish:"+1 do żywności z pól wybrzeża i oceanicznych"
 		Russian:"+1 Еда от клеток около берега и в океане"
+		Dutch:"+1 voedsel van Oceaan en Kust tegels"
 	}
 	
 	"The Great Lighthouse":{
@@ -438,6 +466,7 @@
 		German:"Der Große Leuchtturm"
 		Polish:"Latarnia na Faros" //common polish name
 		Russian:"Фаросский маяк"
+		Dutch:"De Grote Vuurtoren"
 	}
 
 	"'They that go down to the sea in ships, that do business in great waters; these see the works of the Lord, and his wonders in the deep.' - The Bible, Psalms 107:23-24":{
@@ -455,6 +484,7 @@
 		German:"Alle militärischen Marineeinheiten erhalten +1 Bewegung und +1 Sicht"
 		Polish:"Każda jednostka marynarki otrzymuje +1 do ruchu i pola widzenia"
 		Russian:"Все военно-морские юниты получают +1 к движению и обзору"
+		Dutch:"Alle militaire marine eenheden krijgen +1 beweging en +1 zicht"
 	}
 
 	"Courthouse":{
@@ -462,6 +492,7 @@
 		French:"Palais de justice"
 		Polish:"Sąd"
 		Simplified_Chinese:"法庭"
+		Dutch:"Rechtbank"
 	}
 		
 	"Remove extra unhappiness from annexed cities":{
@@ -469,11 +500,13 @@
 		French:"Enlève le mécontentement supplémentaire des villes occupées"
 		Polish:"Usuwa niezadowolenie z okupowanych miast"
 		Simplified_Chinese:"消除来自被占领城市的额外不满"
+		Dutch:"Verwijder extra ongelukkigheid van bezette steden"
 	}
 		
 	"Can only be built in annexed cities":{
 		Italian:"Costruibile solamente nelle città annesse"
 		Simplified_Chinese:"只能建造在被占领城市"
+		Dutch:"Kan alleen gebouwd worden in bezette steden"
 	}
 
 	"Stable":{	
@@ -486,6 +519,7 @@
 		Portuguese:"Estabulos"
 		German:"Stall"
 		Polish:"Stajnia"
+		Dutch:"Stal"
 	}
 
 	"+15% Production when building Mounted Units in this city":{
@@ -507,6 +541,7 @@
 		Portuguese:"Circo Máximo" //can also be spelled normally as Circus Maximus altough that (Circo Máximo) is written in normal portuguese not latin
 		German:"Circus Maximus"
 		Polish:"Circus Maximus"
+		Dutch:"Circus Maximus"
 	}
 
 	"Hanging Gardens":{	
@@ -519,6 +554,7 @@
 		Portuguese:"Jardins Suspensos"
 		German:"Hängende Gärten"
 		Polish:"Wiszące Ogrody"
+		Dutch:"Hangende Tuinen"
 	}
 
 	"'I think that if ever a mortal heard the word of God it would be in a garden at the cool of the day.'  - F. Frankfort Moore":{
@@ -533,6 +569,7 @@
 		French:"Statue de Zeus"
 		Simplified_Chinese:"宙斯神像"
 		Polish:"Posąg Zeusa olimpijskiego" //common polish name
+		Dutch:"Standbeeld van Zeus"
 	}
 
 	"+15% Combat Strenght when attacking Cities":{
@@ -540,6 +577,7 @@
 		French:"+15% force lors d'attaque de villes"
 		Simplified_Chinese:"在攻击城市时所有单位+15%战斗力"
 		Polish:"+15% siły bojowej do ataku na miasta"
+		Dutch:"+15% Aanvalskracht als je steden aanvalt"
 	}
 	
 	"'He spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken' - The Iliad":{
